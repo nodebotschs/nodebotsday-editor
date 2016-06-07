@@ -45,7 +45,7 @@ npm start
 
 ## Developer Documentation
 
-See Wiki
+[See Wiki](/nodebotsday-editor/wiki)
 
 
 Changelog
